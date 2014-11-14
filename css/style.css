@@ -1,0 +1,51 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.5;
+}
+
+header {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2.4em;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.main-img {
+  margin-bottom: 40px;
+}
+
+.post {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0,0,0,.2);
+}
+
+.kicker {
+  text-transform: uppercase;
+  font-size: .8em;
+  color: rgba(0,0,0,.5);
+  letter-spacing: 2px;
+}
+
+.byline {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
+
